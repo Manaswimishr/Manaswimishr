@@ -12,7 +12,7 @@
 - 🗝️ I regularly practice coding to sharpen my skills on platforms like **LeetCode** and **HackerRank**.
 - 🧩 I also compete on various Competitive Programming platforms like **Codeforces** and **CodeChef**.
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/manaswi-mishra04)**.
-- 📝 I recently started writing articles on my blog at **[Medium](https://medium.com/@manaswimishra04)**.
+- 📝 I recently started writing articles at **[Medium](https://medium.com/@manaswimishra04)**.
 
 ---
 
