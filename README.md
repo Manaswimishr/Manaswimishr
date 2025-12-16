@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manaswi!</h1>
-<h3 align="center">Welcome to my GitHub Profile</h3>
+<h3 align="center"></h3>
 
 <div align="center" style="border: 4px solid; border-image: linear-gradient(45deg, #ff6ec4, #7873f5) 1;">
 </div>
@@ -12,14 +12,14 @@
 - 🗝️ I regularly practice coding to sharpen my skills on platforms like **LeetCode** and **HackerRank**.
 - 🧩 I also compete on various Competitive Programming platforms like **Codeforces** and **CodeChef**.
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/manaswi-mishra04)**.
-- 👨‍💻 Have a look at my Codeforces profile here. **[CodeForces](https://codeforces.com/profile/midtermgoblin)**.
+- 👨‍💻 I also regularly write Articles on ThyEloquence : JIIT 128's Official LitSoc Society, Eloquence's very own Blog Page.
+- 🔗 You may check it here: **[Eloquence](https://thyeloquence.blogspot.com/)**.
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="center">
 <a href="https://linkedin.com/in/manaswi-mishra04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="70" width="70" /></a>
-<a href="https://medium.com/@manaswimishra04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="70" width="70" /></a>
 <a href="https://www.codechef.com/users/manaswi_mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="70" width="70" /></a>
 <a href="https://www.hackerrank.com/manaswimishra04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="70" width="70" /></a>
 <a href="https://codeforces.com/profile/manaswimishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="70" width="70" /></a>
