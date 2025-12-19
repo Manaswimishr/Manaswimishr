@@ -43,17 +43,6 @@
 <div align="center" style="border: 4px solid; border-image: linear-gradient(45deg, #ff6ec4, #7873f5) 1;">
 
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manaswimishr&show_icons=true&locale=en&layout=compact" alt="manaswimishr" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=manaswimishr&show_icons=true&locale=en" alt="manaswimishr" />
-</td>
-</tr>
-</table>
-
 
 ---
 
