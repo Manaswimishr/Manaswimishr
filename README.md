@@ -20,7 +20,7 @@
 ### 🌐 Connect with Me:
 <p align="center">
 <a href="https://linkedin.com/in/manaswi-mishra04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="70" width="70" /></a>
-<a href="https://codeforces.com/profile/manaswimishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="70" width="70" /></a>
+<a href="https://codeforces.com/profile/midtermgoblin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="70" width="70" /></a>
 </p>
 
 ---
